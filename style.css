@@ -1,0 +1,82 @@
+/* 
+Theme Name: Twenty Twenty Child 
+Theme URL: http://wayneramshaw.com
+Description: Twenty Twenty Child 
+Theme Author: Your Name
+Author URL: http://wayneramshaw.com
+Template: twentytwenty
+Version: 1.0.0 
+Text Domain: twentytwenty-child 
+*/
+
+body {
+
+    background: #202020;
+	box-sizing: border-box;
+	color: #00AA00 !important;
+
+}
+
+.singular .entry-header {
+
+    background-color: #202020;
+    padding: 4rem 0;
+
+}
+
+h1.entry-title {
+
+    background-color:#202020;
+    color: #00AA00;
+
+}
+
+h2.entry-title {
+
+    background-color:#202020;	
+    color: #00AA00;
+
+}
+
+h3, .heading-size-3 {
+
+    background-color:#202020;	
+    color: #00AA00;
+    
+}
+
+.entry-content {
+
+        color: #00AA00;
+
+}
+
+a {
+	color: #00AA00 !important;
+	text-decoration: underline;
+}
+
+.entry-categories a {
+
+    color: #00AA00;
+
+}
+
+.entry-categories-inner {
+
+    color: #00AA00;
+
+}
+
+.search-submit {
+
+    background-color: #00AA00 !important;
+
+}
+
+.footer-nav-widgets-wrapper, #site-footer {
+
+    background-color:#202020;
+    color: #00AA00;
+
+}
